@@ -1,13 +1,11 @@
-- 👋 Hi, I’m Francois chesnay
-- 👀 I’m interested in machine learning, data science and artificial intelligence and the applications to investments, RegTech and EdTech.
-- 🌱 I took some classes at Stanford:
+- 👋 Hi, I’m Francois 
+- 👀 I’m interested in machine learning, data science and artificial intelligence and the applications to investments, RegTech, EdTech and Agritech.
+- 🌱 I took the following classes at Stanford:
 CS221: Artificial Intelligence 
 CS109: Probability for Computer Scientists 
 CS229: Machine Learning 
 CS224n: Natural Language Processing with Deep Learning 
 CS230: Deep Learning
-- 💞️ I’m looking to collaborate on edTech project
-- 📫 How to reach me francois@alca.ai
 
 
 
