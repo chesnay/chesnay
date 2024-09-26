@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Francois 
-- 👀 I’m interested in machine learning, data science and artificial intelligence and the applications to investments, RegTech, EdTech and Agritech.
+- 👀 I’m interested in machine learning, data science and artificial intelligence and the applications.
 - 🌱 I took the following classes at Stanford:
 CS221: Artificial Intelligence 
 CS109: Probability for Computer Scientists 
