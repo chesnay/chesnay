@@ -1,18 +1,12 @@
-- 👋 Hi, I’m Francois 
-- 👀 I’m interested in machine learning, data science and artificial intelligence and the applications.
-- 🌱 I took the following classes at Stanford:
-- 
-CS221: Artificial Intelligence
-
-CS109: Probability for Computer Scientists 
-
-CS229: Machine Learning 
-
-CS224n: Natural Language Processing with Deep Learning 
-
-CS230: Deep Learning
-
-CS224R: Deep Reinforcement Learning
+👋 Hi, I’m Francois 
+👀 I’m interested in machine learning, data science and artificial intelligence and the applications.
+🌱 I took the following classes at Stanford:
+- CS221: Artificial Intelligence
+- CS109: Probability for Computer Scientists 
+- CS229: Machine Learning 
+- CS224n: Natural Language Processing with Deep Learning 
+- CS230: Deep Learning
+- CS224R: Deep Reinforcement Learning
 
 
 <!---
