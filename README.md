@@ -8,6 +8,7 @@
 - CS230: Deep Learning
 - CS224R: Deep Reinforcement Learning
 - CS238: Decision Making under Uncertainty
+- CS329Z: Engineering AI Agents
 
 
 <!---
